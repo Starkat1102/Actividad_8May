@@ -1,5 +1,9 @@
 body{
-    background-color: rgb(234, 234, 234);
+    background-color: #474748;
+    /* opacity: 1; */
+    background-image:  linear-gradient(30deg, #efeff0 12%, transparent 12.5%, transparent 87%, #efeff0 87.5%, #efeff0), linear-gradient(150deg, #efeff0 12%, transparent 12.5%, transparent 87%, #efeff0 87.5%, #efeff0), linear-gradient(30deg, #efeff0 12%, transparent 12.5%, transparent 87%, #efeff0 87.5%, #efeff0), linear-gradient(150deg, #efeff0 12%, transparent 12.5%, transparent 87%, #efeff0 87.5%, #efeff0), linear-gradient(60deg, #efeff077 25%, transparent 25.5%, transparent 75%, #efeff077 75%, #efeff077), linear-gradient(60deg, #efeff077 25%, transparent 25.5%, transparent 75%, #efeff077 75%, #efeff077);
+    background-size: 80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
     color: #000318;
     font-family: 'Bruno Ace SC', cursive;
 }
