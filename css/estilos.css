@@ -80,3 +80,14 @@ footer{
     background: #000318;
     color: #fff;
 }
+
+.btn{
+    border-color: #000318;
+    color: #1e1e1e;
+}
+
+.btn:hover{
+    background-color: #000318;
+    border-color: #fff;
+}
+
